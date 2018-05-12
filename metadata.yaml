@@ -1,0 +1,47 @@
+_repo: -uvres-de-P.-Corneille-Tome-01_31628
+_version: 0.1.0
+alternative_title: Oeuvres de P. Corneille, Tome 01
+contributor:
+  commentator:
+    agent_name: Marty-Laveaux, Charles Joseph
+    aliases:
+    - Marty-Laveaux, Ch. (Charles)
+    - Marty-Laveaux, Ch. (Charles Joseph)
+    birthdate: 1823
+    deathdate: 1899
+    gutenberg_agent_id: '37028'
+    url: http://www.gutenberg.org/2009/agents/37028
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corneille, Pierre
+    birthdate: 1606
+    deathdate: 1684
+    gutenberg_agent_id: '960'
+    url: http://www.gutenberg.org/2009/agents/960
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pierre_Corneille
+    - http://fr.wikipedia.org/wiki/Pierre_Corneille
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2010-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31628'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama (Tragedy) -- 17th century'
+- !lcc 'PQ'
+tableOfContents: "-- Avertissement\r\n-- Notice biographique sur Corneille\r\n-- Avertissements\
+  \ placés par Corneille en tête des divers recueils de ses pièces\r\n-- Discours\
+  \ de l'utilité et des parties du poëme dramatique\r\n-- Discours de la tragédie\
+  \ et des moyens de la traiter selon le vraisemblable ou le nécessaire\r\n-- Discours\
+  \ des trois unités, d'action, de jour et de lieu\r\n-- Mélite, comédie\r\n-- Clitandre,\
+  \ tragédie\r\n-- La Veuve, comédie"
+title: Œuvres de P. Corneille, Tome 01
+url: http://www.gutenberg.org/ebooks/31628
